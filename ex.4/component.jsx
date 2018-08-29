@@ -8,4 +8,4 @@ const Segundo = props => (
   <h1>Segundo Componente!</h1>
 )
 
-export { Primeiro, Segundo}
+export { Primeiro, Segundo }
